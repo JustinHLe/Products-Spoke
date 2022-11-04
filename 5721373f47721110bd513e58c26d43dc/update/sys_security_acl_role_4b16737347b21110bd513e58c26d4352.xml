@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 18:19:23</sys_created_on>
+        <sys_id>4b16737347b21110bd513e58c26d4352</sys_id>
+        <sys_name>x_928932_products_category.x_928932_products.category_user</sys_name>
+        <sys_package display_value="Products Spoke" source="x_928932_products">5721373f47721110bd513e58c26d43dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Products Spoke">5721373f47721110bd513e58c26d43dc</sys_scope>
+        <sys_security_acl display_value="x_928932_products_category">8b16737347b21110bd513e58c26d4343</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4b16737347b21110bd513e58c26d4352</sys_update_name>
+        <sys_user_role display_value="x_928932_products.category_user" name="x_928932_products.category_user">cf16f7ff47721110bd513e58c26d4349</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDbebad45491c35110a9c04ed416d19f87</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>5721373f47721110bd513e58c26d43dc</scope_name>
+        <serialized_content>{"FlowDesigner:FDbebad45491c35110a9c04ed416d19f87":{"item":"String","item.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"item\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"farmer_id":"String","farmer_id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"farmer_id\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"category":"String","category.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"category\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FDbebad45491c35110a9c04ed416d19f87.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Product Record\",\"mandatory\":\"false\",\"uiUniqueId\":\"64178250-28fb-4b47-9ba5-8cbf5532c1e5\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDbebad45491c35110a9c04ed416d19f87\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"12\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 15:37:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>72bad45447c35110bd513e58c26d4388</sys_id>
+        <sys_name>FDbebad45491c35110a9c04ed416d19f87</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Products Spoke" source="x_928932_products">5721373f47721110bd513e58c26d43dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Products Spoke">5721373f47721110bd513e58c26d43dc</sys_scope>
+        <sys_update_name>sys_complex_object_72bad45447c35110bd513e58c26d4388</sys_update_name>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

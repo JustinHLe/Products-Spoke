@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template/>
+        <connection_type>http_connection</connection_type>
+        <id>x_928932_products.Product_Endpoint</id>
+        <multiple_connections>false</multiple_connections>
+        <name>Product Endpoint</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 20:37:15</sys_created_on>
+        <sys_id>459518cc47c31110bd513e58c26d43dd</sys_id>
+        <sys_name>x_928932_products.Product_Endpoint</sys_name>
+        <sys_package display_value="Products Spoke" source="x_928932_products">5721373f47721110bd513e58c26d43dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Products Spoke">5721373f47721110bd513e58c26d43dc</sys_scope>
+        <sys_update_name>sys_alias_459518cc47c31110bd513e58c26d43dd</sys_update_name>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
