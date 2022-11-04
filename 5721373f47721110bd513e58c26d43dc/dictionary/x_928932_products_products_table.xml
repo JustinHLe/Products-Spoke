@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3231f73f47721110bd513e58c26d4313" label="Products Table" max_length="40" name="x_928932_products_products_table" type="collection">
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Farmer ID" max_length="40" name="farmer_id" type="string"/>
+        <element label="Item" max_length="40" name="item" type="string"/>
+    </element>
+</database>
